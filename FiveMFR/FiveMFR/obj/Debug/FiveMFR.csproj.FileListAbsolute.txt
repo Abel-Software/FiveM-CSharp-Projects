@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\FiveMFR\FiveMFR\bin\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\FiveMFR\FiveMFR\bin\Debug\client.net.pdb
+D:\Visual Studio Projects\FiveM Development\FiveMFR\FiveMFR\obj\Debug\FiveMFR.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Development\FiveMFR\FiveMFR\obj\Debug\FiveMFR.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\FiveMFR\FiveMFR\obj\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\FiveMFR\FiveMFR\obj\Debug\client.net.pdb

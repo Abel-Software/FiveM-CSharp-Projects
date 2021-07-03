@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\TrunkInventory\Build\TrunkInventory.net.dll
+D:\Visual Studio Projects\FiveM Development\TrunkInventory\Build\TrunkInventory.net.pdb
+D:\Visual Studio Projects\FiveM Development\TrunkInventory\TrunkInventory\obj\Debug\TrunkInventory.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\TrunkInventory\TrunkInventory\obj\Debug\TrunkInventory.net.dll
+D:\Visual Studio Projects\FiveM Development\TrunkInventory\TrunkInventory\obj\Debug\TrunkInventory.net.pdb
+D:\Visual Studio Projects\FiveM Development\TrunkInventory\TrunkInventory\obj\Debug\TrunkInventory.csprojAssemblyReference.cache

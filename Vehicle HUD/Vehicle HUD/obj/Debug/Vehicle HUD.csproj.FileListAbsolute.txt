@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\Vehicle HUD\Build\client.net.dll
+D:\Visual Studio Projects\FiveM Development\Vehicle HUD\Build\client.net.pdb
+D:\Visual Studio Projects\FiveM Development\Vehicle HUD\Vehicle HUD\obj\Debug\Vehicle HUD.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Development\Vehicle HUD\Vehicle HUD\obj\Debug\Vehicle HUD.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\Vehicle HUD\Vehicle HUD\obj\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\Vehicle HUD\Vehicle HUD\obj\Debug\client.net.pdb

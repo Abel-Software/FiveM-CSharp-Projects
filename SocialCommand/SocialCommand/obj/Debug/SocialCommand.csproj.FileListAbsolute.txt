@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Projects\SocialCommand\SocialCommand\bin\Debug\SocialCommand.net.dll
+D:\Visual Studio Projects\FiveM Projects\SocialCommand\SocialCommand\bin\Debug\SocialCommand.net.pdb
+D:\Visual Studio Projects\FiveM Projects\SocialCommand\SocialCommand\obj\Debug\SocialCommand.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Projects\SocialCommand\SocialCommand\obj\Debug\SocialCommand.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Projects\SocialCommand\SocialCommand\obj\Debug\SocialCommand.net.dll
+D:\Visual Studio Projects\FiveM Projects\SocialCommand\SocialCommand\obj\Debug\SocialCommand.net.pdb

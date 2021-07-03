@@ -1,0 +1,6 @@
+C:\FiveM\cfx-server-data-master\resources\[scripts]\BankRobbery\BankRobbery.NET.dll
+C:\FiveM\cfx-server-data-master\resources\[scripts]\BankRobbery\BankRobbery.NET.pdb
+D:\Visual Studio Projects\FiveM Projects\BankRobbery\BankRobbery\obj\Debug\BankRobbery.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Projects\BankRobbery\BankRobbery\obj\Debug\BankRobbery.NET.dll
+D:\Visual Studio Projects\FiveM Projects\BankRobbery\BankRobbery\obj\Debug\BankRobbery.NET.pdb
+D:\Visual Studio Projects\FiveM Projects\BankRobbery\BankRobbery\obj\Debug\BankRobbery.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\FuelUsage\Build\FuelUsage.net.dll
+D:\Visual Studio Projects\FiveM Development\FuelUsage\Build\FuelUsage.net.pdb
+D:\Visual Studio Projects\FiveM Development\FuelUsage\FuelUsage\obj\Debug\FuelUsage.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Development\FuelUsage\FuelUsage\obj\Debug\FuelUsage.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\FuelUsage\FuelUsage\obj\Debug\FuelUsage.net.dll
+D:\Visual Studio Projects\FiveM Development\FuelUsage\FuelUsage\obj\Debug\FuelUsage.net.pdb

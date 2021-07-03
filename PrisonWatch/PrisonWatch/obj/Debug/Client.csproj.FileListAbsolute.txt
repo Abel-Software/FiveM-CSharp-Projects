@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\client\PrisonWatch\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Development\client\PrisonWatch\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\client\Build\client.net.dll
+D:\Visual Studio Projects\FiveM Development\client\Build\client.net.pdb
+D:\Visual Studio Projects\FiveM Development\client\PrisonWatch\obj\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\client\PrisonWatch\obj\Debug\client.net.pdb

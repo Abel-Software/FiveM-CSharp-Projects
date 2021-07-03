@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\client\Build\server.net.dll
+D:\Visual Studio Projects\FiveM Development\client\Build\server.net.pdb
+D:\Visual Studio Projects\FiveM Development\client\server\obj\Debug\server.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Development\client\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\client\server\obj\Debug\server.net.dll
+D:\Visual Studio Projects\FiveM Development\client\server\obj\Debug\server.net.pdb

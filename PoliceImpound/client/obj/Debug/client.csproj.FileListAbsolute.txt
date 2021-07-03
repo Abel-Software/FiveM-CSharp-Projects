@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\PoliceImpound\client\bin\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\PoliceImpound\client\bin\Debug\client.net.pdb
+D:\Visual Studio Projects\FiveM Development\PoliceImpound\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\PoliceImpound\client\obj\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\PoliceImpound\client\obj\Debug\client.net.pdb
+D:\Visual Studio Projects\FiveM Development\PoliceImpound\client\obj\Debug\client.csprojAssemblyReference.cache

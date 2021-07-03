@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Development\Fire Hydrant Script\Build\client.net.dll
+D:\Visual Studio Projects\FiveM Development\Fire Hydrant Script\Build\client.net.pdb
+D:\Visual Studio Projects\FiveM Development\Fire Hydrant Script\Fire Hydrant Script\obj\Debug\Fire Hydrant Script.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Development\Fire Hydrant Script\Fire Hydrant Script\obj\Debug\Fire Hydrant Script.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Development\Fire Hydrant Script\Fire Hydrant Script\obj\Debug\client.net.dll
+D:\Visual Studio Projects\FiveM Development\Fire Hydrant Script\Fire Hydrant Script\obj\Debug\client.net.pdb

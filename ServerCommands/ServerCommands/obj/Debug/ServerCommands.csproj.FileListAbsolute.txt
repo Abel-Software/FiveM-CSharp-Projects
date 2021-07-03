@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\FiveM Projects\ServerCommands\ServerCommands\bin\Debug\ServerCommands.net.dll
+D:\Visual Studio Projects\FiveM Projects\ServerCommands\ServerCommands\bin\Debug\ServerCommands.net.pdb
+D:\Visual Studio Projects\FiveM Projects\ServerCommands\ServerCommands\obj\Debug\ServerCommands.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Projects\ServerCommands\ServerCommands\obj\Debug\ServerCommands.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Projects\ServerCommands\ServerCommands\obj\Debug\ServerCommands.net.dll
+D:\Visual Studio Projects\FiveM Projects\ServerCommands\ServerCommands\obj\Debug\ServerCommands.net.pdb

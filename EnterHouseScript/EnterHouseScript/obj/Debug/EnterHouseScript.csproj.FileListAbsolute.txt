@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\FiveM Projects\EnterHouseScript\EnterHouseScript\bin\Debug\EnterHouseScript.net.dll
+D:\Visual Studio Projects\FiveM Projects\EnterHouseScript\EnterHouseScript\bin\Debug\EnterHouseScript.net.pdb
+D:\Visual Studio Projects\FiveM Projects\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Projects\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Projects\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.net.dll
+D:\Visual Studio Projects\FiveM Projects\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.net.pdb
+D:\Visual Studio Projects\FiveM Projects [OUTDATED]\EnterHouseScript\EnterHouseScript\bin\Debug\EnterHouseScript.net.dll
+D:\Visual Studio Projects\FiveM Projects [OUTDATED]\EnterHouseScript\EnterHouseScript\bin\Debug\EnterHouseScript.net.pdb
+D:\Visual Studio Projects\FiveM Projects [OUTDATED]\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.csprojAssemblyReference.cache
+D:\Visual Studio Projects\FiveM Projects [OUTDATED]\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Projects [OUTDATED]\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.net.dll
+D:\Visual Studio Projects\FiveM Projects [OUTDATED]\EnterHouseScript\EnterHouseScript\obj\Debug\EnterHouseScript.net.pdb

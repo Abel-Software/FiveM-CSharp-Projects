@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\Build\Client.net.dll
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\Build\Client.net.pdb
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\FivePDQuestionMenu\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\FivePDQuestionMenu\obj\Debug\Client.net.dll
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\FivePDQuestionMenu\obj\Debug\Client.net.pdb
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\FivePDQuestionMenu\obj\Debug\Client.csproj.CopyComplete
+D:\Visual Studio Projects\FiveM Projects\FivePDQuestionMenu\FivePDQuestionMenu\obj\Debug\Client.csprojAssemblyReference.cache
